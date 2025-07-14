@@ -1,61 +1,44 @@
-<h1 align="center">
-  ✨ SAINI DRM Bot ✨
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
-</p>
+***Welcome to DRM bot made by @nikhil.saini.khe (Instagram)***
 
----
+**Don't Remove Credit tag**
+**Note:** CP DRM SUPPORTED MINIMUM QUALITY 360
 
-> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
-> 🚫 **Do not remove the credit tag**
+## Commands
 
----
+> /start - Start the Bot.  
+> /stop - Stop the Bot.  
+> /help - To get help for using this bot.
 
-## 📜 Commands
+## Deployment Process 
+Watch YouTube Video
+https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
-| Command | Description |
-|---------|-------------|
-| `/start` | Start the bot |
-| `/stop`  | Stop the bot |
-| `/help`  | Show help message |
+> 1. Fork the Repository
+> 2. edit vars.py and fillup API ID and API HASH
+> 3. edit readme.md and change button link by your repository link
+> 4. Now direct click on button eg. Render, Heroku, Koyeb
 
----
 
-## 🚀 Deployment Process
 
-🎬 **Watch Full Deployment Tutorial:**  
-[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
+## Deploy Via Buttons
 
-### Step-by-Step:
-1. **Fork** the Repository  
-2. **Edit `vars.py`** — Fill in your `API_ID` and `API_HASH`  
-3. **Edit `README.md`** — Change the deploy button links to point to your own fork  
-4. Choose any platform and **Deploy** directly using the buttons below:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)
 
----
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/nikhilsainiop/saini-txt-direct)
 
-## 📦 Deploy via Buttons
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render)](https://render.com/deploy)  
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)  
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
 
----
 
-## 🤖 Bot Usernames
+Bot username
+@saini_contact_bot
+@saini_file_store_bot
 
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
 
----
+Repo 
+https://github.com/nikhilsainiop/saini-txt-direct
 
-## 📂 Original Repositories
-
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
-
----
-
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+https://github.com/cyberseller999/saini-txt-direct
